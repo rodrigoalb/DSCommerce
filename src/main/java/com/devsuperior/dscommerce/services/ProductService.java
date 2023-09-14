@@ -54,5 +54,9 @@ public class ProductService {
 
         return new ProductDTO(product);
     }
+    @Transactional
+    public void delete(Long id){
+        repository.deleteById(id);
+    }
 }
 
