@@ -57,6 +57,7 @@ https://www.figma.com/design/ZrGNVNG0kZL6txDv4G8P6s/DSCommerce?node-id=0-1&t=3S1
 A API utiliza o Spring Security para autenticação, contando com OPERATOR e ADMIN
 
 OPERATOR -> Papel padrão para usuários autenticados.
+
 ADMIN -> Papel de administrador para gerenciar produtos (adicionar, atualiza, remove produtos). 
 
 - [@Rodrigoalba](https://github.com/rodrigoalb)
